@@ -38,6 +38,16 @@ TODO
 
 ## Citation
 
+    @inproceedings{guo-etal-2023-zeroae,
+        title = "{Z}ero{AE}: Pre-trained Language Model based Autoencoder for Transductive Zero-shot Text Classification",
+        author = "Guo, Kaihao and Yu, Hang and Liao, Cong and Li, Jianguo and Zhang, Haipeng",
+        booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+        year = "2023",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2023.findings-acl.200",
+        pages = "3202--3219",
+    }
+
 ## Contact
 
 For any questions w.r.t. ZeroAE, please submit them to Github Issues.
